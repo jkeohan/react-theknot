@@ -1,6 +1,6 @@
 # React Components
 
-You've been asked to refactor the products and services section of your clients web site using React.  The section is beautifully designed and styled looks like the following:
+You've been asked to refactor the products and services section of your clients web site using React.  The section is beautifully designed and looks like the following:
 
 ![Products Section](https://i.imgur.com/ISNryqG.png)
 
