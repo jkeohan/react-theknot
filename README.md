@@ -24,7 +24,7 @@ The entire section is using one large block of static HTML to render all of the 
 
 1. Fork this [codesandbox](https://codesandbox.io/s/theknot-starter-repo-wwgqw?file=/src/App.js)
 1. Fulfill the listed requirements.
-1. Submit the assignment using the submission form
+1. Submit the assignment (instructor to provide guidance)
 
 ## Requirements
 
