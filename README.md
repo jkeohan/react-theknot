@@ -4,7 +4,7 @@ You've been asked to refactor the products and services section of your clients 
 
 ![Products Section](https://i.imgur.com/ISNryqG.png)
 
-The entire section is using one large block of static HTML to render all of the content and structured as `ul > li`
+The entire section is using one large block of static HTML to render all of the content and structured as **ul > li** with each product being it's own **li**
 
 ```html
 <ul>
